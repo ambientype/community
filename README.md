@@ -8,7 +8,7 @@
   <a href="https://ambientype.com">
     <img src="https://img.shields.io/badge/Website-ambientype.com-black?style=for-the-badge&logo=google-chrome" alt="Website">
   </a>
-  <a href="https://dl.ambientype.com/latest">
+  <a href="https://dl.ambientype.com/ambientype_0.1.0_x64-setup.exe">
     <img src="https://img.shields.io/badge/Download-Latest_Version-0078D4?style=for-the-badge&logo=windows" alt="Download">
   </a>
 </p>
