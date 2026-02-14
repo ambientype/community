@@ -8,7 +8,7 @@
   <a href="https://ambientype.com">
     <img src="https://img.shields.io/badge/Website-ambientype.com-black?style=for-the-badge&logo=google-chrome" alt="Website">
   </a>
-  <a href="https://dl.ambientype.com/ambientype_0.2.0_x64-setup.exe">
+  <a href="https://dl.ambientype.com/ambientype_0.3.1_x64-setup.exe">
     <img src="https://img.shields.io/badge/Download-Latest_Version-0078D4?style=for-the-badge&logo=windows" alt="Download">
   </a>
 </p>
@@ -37,7 +37,7 @@ Ambientype 是一款專為 Windows 設計的次世代輸入法，由 **Rust** �
 ## 🔗 快速連結
 
 * **🌐 官方網站**: [ambientype.com](https://ambientype.com)
-* **⬇️ 下載最新版本**: [點此下載 (.exe)](https://dl.ambientype.com/ambientype_0.2.0_x64-setup.exe)
+* **⬇️ 下載最新版本**: [點此下載 (.exe)](https://dl.ambientype.com/ambientype_0.3.1_x64-setup.exe)
 * **📖 使用文件**: [Wiki 百科](../../wiki) (建置中)
 
 ## 🤝 社群互動與支援
